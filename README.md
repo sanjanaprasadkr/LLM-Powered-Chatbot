@@ -122,11 +122,3 @@ def extract_articles_with_urls(soup, keywords):
             articles_with_urls.append((title, article_url))
     return articles_with_urls
 ```
-
-### Example of Output
-
-Upon running the script, the program will display the recommended articles based on the keywords extracted from the chatbot's response.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
