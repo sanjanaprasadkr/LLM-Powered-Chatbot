@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project utilizes the Llama 2 chatbot technology to deliver responses to educational questions. It also recommends relevant articles based on keyword analysis of the chatbot responses, leveraging advanced techniques from natural language processing (NLP).
+This project utilizes the Llama 2 chatbot technology to deliver responses to educational questions. It also recommends relevant articles based on keyword analysis of the chatbot responses, leveraging natural language processing (NLP).
 
 ## Table of Contents
 
